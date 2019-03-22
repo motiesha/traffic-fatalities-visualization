@@ -19,6 +19,10 @@ headV="""
       html, body {
       height: 100%;
       margin: 0;
+
+      asd as a
+       asd 
+
       padding: 0;
       }
       #map {
@@ -26,8 +30,7 @@ headV="""
       }
     </style>
   </head>
-  <body> <!--  DataCanary_s fix -->
-      <div id="map" class="main-container"></div>
+ class="main-container"></div>
     <script>
     var map, heatmap;
       function initMap() {
