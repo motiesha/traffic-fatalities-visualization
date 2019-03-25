@@ -19,6 +19,7 @@ headV="""
       html, body {
       height: 100%;
       salam
+      khodafez
       margin: 0;
       padding: 0;
       }
